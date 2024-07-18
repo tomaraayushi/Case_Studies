@@ -25,4 +25,4 @@ Gain experience with common statistical tests and their applications
 
 Feel free to explore, analyze, and learn from these examples. Contributions and discussions are welcome!
 
-***1. [Are the booking off?](https://github.com/tomaraayushi/Data_Analysis_Projects/blob/main/CASE_STUDY_Are_the_booking_off.ipynb)***
+***1. [Are the booking off?](https://github.com/tomaraayushi/Case_Studies/blob/main/CASE_STUDY_Are_the_booking_off.ipynb)***
