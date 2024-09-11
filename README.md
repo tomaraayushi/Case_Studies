@@ -4,6 +4,8 @@ This repository contains a collection of real interview data analysis case studi
 
 Feel free to explore, analyze, and learn from these examples. Contributions and discussions are welcome!
 
-***1. [Are the booking off?](https://github.com/tomaraayushi/Case_Studies/blob/main/CASE_STUDY_Are_the_booking_off.ipynb)***
+***1. [Booking: Are the booking off?](https://github.com/tomaraayushi/Case_Studies/blob/main/CASE_STUDY_Are_the_booking_off.ipynb)***
 
 ***2. [A/B Test Case Study: Optimizing User Engagement and Conversion](https://github.com/tomaraayushi/Case_Studies/blob/main/A/AB_Test_Case%20Study_OptimizingUserEngagementandConversion.ipynb)***
+
+***3.[Stripe Product Analysis](https://github.com/tomaraayushi/Case_Studies/blob/main/Stripe_CaseStudy.ipynb)***
